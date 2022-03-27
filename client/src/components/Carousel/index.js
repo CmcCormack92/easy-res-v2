@@ -15,7 +15,6 @@ import EmailIcon from '@mui/icons-material/Email';
 import CardActions from '@mui/material/CardActions';
 import { requirePropFactory } from "@mui/material";
 import FavoriteIcon from '@mui/icons-material/Favorite';
-import  img2 from '../../assets/testImg/2.jpg'
 
 
 function Banner(props) {

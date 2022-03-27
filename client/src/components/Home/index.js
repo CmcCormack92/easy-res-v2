@@ -1,8 +1,8 @@
 import React from 'react';
 import Carousel from '../Carousel';
 import SearchAppBar from '../AppBar';
-import FullWidthTabs from '../AppTabs';
 import Hero from '../Hero';
+
 
 function Home() {
     return (
@@ -10,7 +10,6 @@ function Home() {
             <SearchAppBar/>
             <Hero/>
             <Carousel/>
-            
         </section>
     );
 }
