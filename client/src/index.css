@@ -14,10 +14,14 @@
   padding-bottom: 0px;
   display: flex;
   justify-content: center;
-  align-items: flex-end;
+  align-items: center;
   color: white;
   font-size: 50px;
   font-weight: bold;
+}
+
+.hero h1 {
+  margin-top: 8%;
 }
 
 .Banner {

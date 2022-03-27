@@ -10,9 +10,7 @@ import Button from '@mui/material/Button';
 import MenuIcon from '@mui/icons-material/Menu';
 import SearchIcon from '@mui/icons-material/Search';
 import Stack from '@mui/material/Stack';
-import Avatar from '@mui/material/Avatar';
 import Drawer from '@mui/material/Drawer';
-import CssBaseline from '@mui/material/CssBaseline';
 import List from '@mui/material/List';
 import Divider from '@mui/material/Divider';
 import ListItem from '@mui/material/ListItem';
@@ -97,7 +95,7 @@ export default function SearchAppBar() {
 
   const SideList = () => (
     <Box sx={{width: 250,
-        background: "black",
+        background: "#2f3136",
         height: "100%"}} component="div">
       <Divider />
       <List>

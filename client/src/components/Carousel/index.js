@@ -13,7 +13,6 @@ import { red } from '@mui/material/colors';
 import PhoneIcon from '@mui/icons-material/Phone';
 import EmailIcon from '@mui/icons-material/Email';
 import CardActions from '@mui/material/CardActions';
-import { requirePropFactory } from "@mui/material";
 import FavoriteIcon from '@mui/icons-material/Favorite';
 
 
@@ -232,7 +231,7 @@ class BannerExample extends React.Component {
 
   render() {
     return (
-      <div style={{ paddingTop:"0px", marginTop: "0px", color: "#494949" }}>
+      <div style={{ paddingTop:"35px", marginTop: "0px", color: "#494949" }}>
         <h2></h2>
 
         <Carousel
