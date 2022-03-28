@@ -35,7 +35,7 @@ function Banner(props) {
           </Avatar>
         }
         title={props.item.Name}
-        subheader="September 14, 2016"
+        subheader="Upscale Restaurant"
       />
       <CardMedia
         component="img"
@@ -77,7 +77,7 @@ function Banner(props) {
           </Avatar>
         }
         title={item.Name}
-        subheader="September 14, 2016"
+        subheader="Casual Dining"
       />
       <CardMedia
         component="img"
